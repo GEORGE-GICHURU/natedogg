@@ -4,13 +4,14 @@
 ## Description
 {This is a website one can use to determine your name based on the day of the week you were born.Its called the akan naming, Its a system from ghana which is oftenly used,You can try it yourself!! }
 ## Setup/Installation Requirements
-* Clone the repo {git clone }
+* Clone the repo {git clone : https://github.com/GEORGE-GICHURU/natedogg.git }
 * to list setup instructions
 * in a simple
 * easy-to-understand
 * format
 {The site is easy for you to understand, one just needs to follow the instructions carefully and answer what is needed below. After filling in your answers click on the "get akan name" and your response should be ready.}
 ## Live link
+https://george-gichuru.github.io/natedogg/
 ## Known Bugs
 {I believe their is no issue with the site. }
 ## Technologies Used
